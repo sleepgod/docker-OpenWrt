@@ -14,3 +14,6 @@
     UPnP
     KMS 服务器
     
+使用方法：
+
+https://mlapp.cn/376.html
