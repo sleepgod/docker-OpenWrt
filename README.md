@@ -3,11 +3,8 @@
 插件：
 
     广告屏蔽大师 Plus+
-    
     ShadowSocksR Plus+
-    
     京东签到服务
-    
     上网时间控制
     解锁网易云灰色歌曲
     动态 DNS
