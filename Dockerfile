@@ -2,7 +2,7 @@ FROM scratch
 
 MAINTAINER SleepGod <dingwenxuan@gmail.com>
 
-ADD openwrt-x86-generic-Generic-rootfs.tar.gz /
+ADD openwrt-bcm27xx-bcm2711-rpi-4-rootfs.tar.gz /
 
 RUN mkdir /var/lock
 
